@@ -19,6 +19,7 @@ public class git {
         System.out.println("Hello hot-fix again!");
         System.out.println("master test");
         System.out.println("Hello hot-fix again!");
+        System.out.println("Hello hot-fix again and again!");
 
     }
 }
